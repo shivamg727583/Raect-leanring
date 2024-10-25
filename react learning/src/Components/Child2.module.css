@@ -1,0 +1,11 @@
+.heading{
+    font-size: 100px;
+    color: royalblue;
+    font-weight: 900;
+    font-family: gilroy;
+    text-transform: capitalize;
+    
+}
+.bg{
+    background: whitesmoke;
+}
